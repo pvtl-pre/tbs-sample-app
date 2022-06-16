@@ -1,0 +1,3 @@
+nodejs: {}
+nginx:
+  version: 1.21.*
